@@ -1,54 +1,67 @@
 # 🏏 IPL Score Predictor <img width="1088" height="798" alt="image" src="https://github.com/user-attachments/assets/2bad466a-732f-461f-85f0-2f8b5eff7994" />
 
+A Machine Learning-based web application that predicts the final IPL innings score using real-time match statistics and historical IPL data.
 
-A Machine Learning based IPL Score Predictor built using Python, Streamlit, and Scikit-Learn.
+## 🚀 Live Demo
 
-## Live Demo
+https://ipl-score-predictor-projectbyabhi.streamlit.app
 
-🚀 https://ipl-score-predictor-projectbyabhi.streamlit.app
+## 💻 GitHub Repository
 
-## Features
+https://github.com/ProjectByAbhi/IPL-Score-Predictor
 
-- Predicts final IPL innings score
-- User-friendly Streamlit interface
-- Real-time score prediction
-- Uses team information, current runs, wickets, overs, and recent performance
+## 📌 Features
 
-## Input Parameters
+* Predicts final IPL innings score
+* Interactive Streamlit web interface
+* Real-time score prediction
+* Machine Learning powered predictions
+* Cloud deployed application
 
-- Batting Team
-- Bowling Team
-- Current Runs
-- Current Overs
-- Wickets Fallen
-- Runs Scored in Last 5 Overs
-- Wickets Lost in Last 5 Overs
+## 🛠 Technologies Used
 
-## Technologies Used
+* Python
+* Streamlit
+* NumPy
+* Pandas
+* Scikit-Learn
+* Random Forest Regression
+* Git & GitHub
 
-- Python
-- Streamlit
-- NumPy
-- Pandas
-- Scikit-Learn
+## 📊 Input Parameters
 
-## Run Locally
+* Batting Team
+* Bowling Team
+* Current Runs
+* Current Overs
+* Wickets Fallen
+* Runs Scored in Last 5 Overs
+* Wickets Lost in Last 5 Overs
+
+## 📂 Project Structure
+
+```text
+IPLScorePredictor/
+│
+├── ipl_score_predictor.py
+├── ml_model.pkl
+├── ipl_data.csv
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
+
+## ▶️ Run Locally
 
 ```bash
 pip install -r requirements.txt
 python -m streamlit run ipl_score_predictor.py
 ```
 
-## Project Files
-
-* `ipl_score_predictor.py` → Main Streamlit application
-* `ml_model.pkl` → Trained Machine Learning model
-* `ipl_data.csv` → IPL dataset
-* `requirements.txt` → Project dependencies
-* `README.md` → Project documentation
-* `.gitignore` → Files ignored by Git
-
-
-## Author
+## 👨‍💻 Author
 
 Abhishek Rai
+
+LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-URL
+
+GitHub: https://github.com/ProjectByAbhi
