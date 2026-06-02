@@ -1,4 +1,5 @@
-# 🏏 IPL Score Predictor
+# 🏏 IPL Score Predictor <img width="1088" height="798" alt="image" src="https://github.com/user-attachments/assets/2bad466a-732f-461f-85f0-2f8b5eff7994" />
+
 
 A Machine Learning based IPL Score Predictor built using Python, Streamlit, and Scikit-Learn.
 
