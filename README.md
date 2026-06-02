@@ -2,6 +2,10 @@
 
 A Machine Learning based IPL Score Predictor built using Python, Streamlit, and Scikit-Learn.
 
+## Live Demo
+
+🚀 https://ipl-score-predictor-projectbyabhi.streamlit.app
+
 ## Features
 
 - Predicts final IPL innings score
