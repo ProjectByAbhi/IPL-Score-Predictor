@@ -62,6 +62,6 @@ python -m streamlit run ipl_score_predictor.py
 
 Abhishek Rai
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-URL
+LinkedIn: https://www.linkedin.com/in/abhishekrai-ai/
 
 GitHub: https://github.com/ProjectByAbhi
