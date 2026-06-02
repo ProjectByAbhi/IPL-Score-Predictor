@@ -34,15 +34,15 @@ pip install -r requirements.txt
 python -m streamlit run ipl_score_predictor.py
 ```
 
-## Project Structure
+## Project Files
 
-IPLScorePredictor/
-│
-├── ipl_score_predictor.py
-├── ml_model.pkl
-├── ipl_data.csv
-├── requirements.txt
-└── README.md
+* `ipl_score_predictor.py` → Main Streamlit application
+* `ml_model.pkl` → Trained Machine Learning model
+* `ipl_data.csv` → IPL dataset
+* `requirements.txt` → Project dependencies
+* `README.md` → Project documentation
+* `.gitignore` → Files ignored by Git
+
 
 ## Author
 
